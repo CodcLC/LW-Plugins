@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bea773c4-374e-48c3-9ac9-27be63a9816e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_gongjili": {
+      "ver": "1.0.4",
+      "uuid": "e9cbb3fb-588e-44b4-af7e-32ed7c3d4033",
+      "rawTextureUuid": "bea773c4-374e-48c3-9ac9-27be63a9816e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 60,
+      "height": 55,
+      "rawWidth": 60,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

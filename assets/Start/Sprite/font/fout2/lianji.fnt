@@ -1,0 +1,23 @@
+info face="C:\Users\pc\Desktop\lianji" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=100 base=26 scaleW=393 scaleH=404 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="C:\Users\pc\Desktop\lianji.png"
+chars count=17
+char id=48 x=271 y=180 width=77 height=88 xoffset=0 yoffset=12 xadvance=79 page=0 chnl=0 letter="0"
+char id=49 x=312 y=90 width=57 height=85 xoffset=0 yoffset=14 xadvance=59 page=0 chnl=0 letter="1"
+char id=50 x=142 y=105 width=86 height=87 xoffset=0 yoffset=12 xadvance=88 page=0 chnl=0 letter="2"
+char id=51 x=228 y=0 width=81 height=88 xoffset=0 yoffset=12 xadvance=83 page=0 chnl=0 letter="3"
+char id=52 x=83 y=317 width=81 height=85 xoffset=0 yoffset=14 xadvance=83 page=0 chnl=0 letter="4"
+char id=53 x=0 y=316 width=81 height=86 xoffset=0 yoffset=14 xadvance=83 page=0 chnl=0 letter="5"
+char id=54 x=230 y=90 width=80 height=88 xoffset=0 yoffset=12 xadvance=82 page=0 chnl=0 letter="6"
+char id=55 x=166 y=317 width=74 height=85 xoffset=0 yoffset=14 xadvance=76 page=0 chnl=0 letter="7"
+char id=56 x=143 y=0 width=83 height=88 xoffset=0 yoffset=12 xadvance=85 page=0 chnl=0 letter="8"
+char id=57 x=311 y=0 width=80 height=88 xoffset=0 yoffset=12 xadvance=82 page=0 chnl=0 letter="9"
+char id=47 x=271 y=270 width=76 height=99 xoffset=0 yoffset=10 xadvance=78 page=0 chnl=0 letter="/"
+char id=24320 x=0 y=0 width=141 height=103 xoffset=0 yoffset=-3 xadvance=143 page=0 chnl=0 letter="开"
+char id=22987 x=0 y=211 width=136 height=103 xoffset=0 yoffset=-3 xadvance=138 page=0 chnl=0 letter="始"
+char id=20851 x=0 y=105 width=140 height=104 xoffset=0 yoffset=-4 xadvance=142 page=0 chnl=0 letter="关"
+char id=21345 x=138 y=211 width=131 height=104 xoffset=0 yoffset=-4 xadvance=133 page=0 chnl=0 letter="卡"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=2 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=0 letter="	"
+
+kernings count=0

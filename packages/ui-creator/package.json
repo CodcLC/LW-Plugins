@@ -1,0 +1,23 @@
+{
+    "name": "ui-creator",
+    "version": "0.0.1",
+    "description": "导出预制体节点树",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "i18n:MAIN_MENU.package.title/ui-creator/导出": {
+            "message": "ui-creator:create-node-tree",
+            "accelerator":"alt+s"
+        },
+        "i18n:MAIN_MENU.package.title/ui-creator/配置": {
+            "message": "ui-creator:config"
+        }
+    },
+    "panel": {
+        "main": "panel/index.js",
+        "type": "dockable",
+        "title": "path-config",
+        "width": 800,
+        "height": 200
+    }
+}

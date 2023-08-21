@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fd4c461f-2f90-4435-a89c-67c5896131f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 47,
+  "height": 53,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_chongwan": {
+      "ver": "1.0.4",
+      "uuid": "da9f42f1-9d45-4d93-80d7-28b24c681a32",
+      "rawTextureUuid": "fd4c461f-2f90-4435-a89c-67c5896131f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 46,
+      "height": 53,
+      "rawWidth": 47,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

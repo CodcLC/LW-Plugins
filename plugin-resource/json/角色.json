@@ -1,0 +1,12 @@
+{
+    "HP": 1000,
+    "AtkMin": 100,
+    "AtkMax": 150,
+    "DefenseValue": 100,
+    "HPExpend": 100,
+    "AtkExpend": 100,
+    "DefenseExpend": 100,
+    "atkup": 100,
+    "defup": 50,
+    "hpup": 100
+}
